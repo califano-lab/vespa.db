@@ -4,7 +4,7 @@ FROM r-base
 RUN apt-get update && apt-get install -y libcurl4-openssl-dev libssl-dev libxml2-dev
 
 # install R dependencies
-RUN R -e "install.packages(c('data.table','pbapply','seqinr','stringr','mixtools','plyr','reshape2','tidyr','BiocManager') ,dependencies=TRUE, repos='http://cran.rstudio.com/')"
+RUN R -e "install.packages(c('data.table','pbapply','seqinr','stringr','mixtools','plyr','reshape2','tidyr','BiocManager','caret') ,dependencies=TRUE, repos='http://cran.rstudio.com/')"
 RUN R -e "BiocManager::install(c('viper','preprocessCore','limma'))"
 
 # install phosphoviper.db

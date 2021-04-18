@@ -1,7 +1,7 @@
 Package: phosphoviper.db
 Type: Package
 Title: phosphoviper.db companion data package for phosphoviper
-Version: 1.0.0
+Version: 1.0.2
 Author: George Rosenberger
 Maintainer: George Rosenberger <gr2578@cumc.columbia.edu>
 Description: phosphoVIPER.db is a companion data package for phosphoviper.

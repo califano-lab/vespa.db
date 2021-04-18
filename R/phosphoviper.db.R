@@ -6,7 +6,7 @@
 #' \tabular{ll}{
 #' Package: \tab phosphoviper.db\cr
 #' Type: \tab Package\cr
-#' Version: \tab 1.0.0\cr
+#' Version: \tab 1.0.2\cr
 #' License: \tab Columbia University Non-Commercial License\cr
 #' }
 #'
