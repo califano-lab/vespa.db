@@ -1,3 +1,3 @@
-# phosphoviper.db
+# vespa.db
 
-This data package provides reference DBs for the phosphoviper R-package.
+This data package provides reference DBs for the vespa R-package.

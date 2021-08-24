@@ -1,10 +1,10 @@
-Package: phosphoviper.db
+Package: vespa.db
 Type: Package
-Title: phosphoviper.db companion data package for phosphoviper
+Title: vespa.db companion data package for vespa
 Version: 1.0.2
 Author: George Rosenberger
 Maintainer: George Rosenberger <gr2578@cumc.columbia.edu>
-Description: phosphoVIPER.db is a companion data package for phosphoviper.
+Description: vespa.db is a companion data package for vespa.
 License: Columbia University Non-Commercial License
 Encoding: UTF-8
 LazyData: true
