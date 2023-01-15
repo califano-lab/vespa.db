@@ -11,5 +11,5 @@ RUN R -e "BiocManager::install(c('viper','preprocessCore','limma'))"
 ADD ./ ./
 RUN R CMD INSTALL ./
 
-# docker build -t docker.pkg.github.com/califano-lab/vespa.db/vespa.db:latest ./
-# docker push docker.pkg.github.com/califano-lab/vespa.db/vespa.db:latest
+# docker build -t ghcr.io/califano-lab/vespa.db/vespa.db:latest ./
+# docker push ghcr.io/califano-lab/vespa.db/vespa.db:latest
