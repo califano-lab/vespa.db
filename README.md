@@ -1,6 +1,6 @@
 # vespa.db - Reference datasets for the VESPA R-package
 
-This data package provides reference DBs for the [``vespa``](https://github.com/califano-lab/vespa) R-package. Installation requires a recent version 
+This data package provides reference DBs for the [``vespa``](https://github.com/califano-lab/vespa) R-package. Installation requires a recent version of R to be installed.
 
 ## Installation
 ```
