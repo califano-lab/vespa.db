@@ -12,7 +12,7 @@ install_github("califano-lab/vespa.db")
 ```
 
 ## Usage
-The datasets will be automatically called by the [``vespa``](https://github.com/califano-lab/vespa) R-package. For further information about the data, refer to the overview pages:
+For further information on usage, refer to the [`vespa.tutorial`](https://github.com/califano-lab/vespa.tutorial) documentation, as well as the R-package help pages for information on individual functions:
 
 ```
 library(vespa.db)
