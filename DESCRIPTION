@@ -1,13 +1,13 @@
 Package: vespa.db
 Type: Package
 Title: vespa.db companion data package for vespa
-Version: 1.0.2
+Version: 1.0.3
 Author: George Rosenberger
 Maintainer: George Rosenberger <gr2578@cumc.columbia.edu>
 Description: vespa.db is a companion data package for vespa.
 License: Columbia University Non-Commercial License
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 7.1.1
+RoxygenNote: 7.2.3
 Imports: 
     data.table
